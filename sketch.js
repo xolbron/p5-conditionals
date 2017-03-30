@@ -10,8 +10,8 @@ var run;
 var box1x;
 
 function setup(){
-  createCanvas(600, 400);
-  run = createGraphics(460, 335);
+  createCanvas(1000, 400);
+  run = createGraphics(860, 300);
 }
 
 function draw(){
